@@ -1,4 +1,4 @@
-create table EMP_MASTER(
+﻿create table EMP_MASTER(
  EMP_CODE	 varchar(4),
  EMP_NAME	 varchar(255),
  EMP_NAME_K varchar(255),

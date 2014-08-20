@@ -1,4 +1,4 @@
-create table EMP_POST_MASTER(
+Ôªøcreate table EMP_POST_MASTER(
  EMP_POST_ID	 int,
  EMP_POST_NAME	 varchar(255),
  primary key(EMP_POST_ID)
@@ -8,16 +8,16 @@ insert into EMP_POST_MASTER(
  EMP_POST_ID,
  EMP_POST_NAME
 )
-VALUES (1, 'ëçñ±')
+VALUES (1, 'Á∑èÂãô')
 
 insert into EMP_POST_MASTER(
  EMP_POST_ID,
  EMP_POST_NAME
 )
-VALUES (2, 'âcã∆')
+VALUES (2, 'Âñ∂Ê•≠')
 
 insert into EMP_POST_MASTER(
  EMP_POST_ID,
  EMP_POST_NAME
 )
-VALUES (3, 'äJî≠')
+VALUES (3, 'ÈñãÁô∫')

@@ -1,4 +1,4 @@
-create table BOOK_MASTER(
+﻿create table BOOK_MASTER(
  BOOK_ISBN	 varchar(13),
  BOOK_NAME   text,
  BOOK_AUTHOR text,
